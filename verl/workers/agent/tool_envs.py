@@ -2,7 +2,7 @@ import re
 import json
 from abc import ABC, abstractmethod
 from typing import Dict, Any, Tuple, Optional, List
-
+# 个人修改
 def extract_tool_call_contents(start_token, end_token, text):
     # pattern = r"<tool_call>(.*?)</tool_call>"
     pattern = re.escape(start_token) + r'(.*?)' + re.escape(end_token)
