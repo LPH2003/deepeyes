@@ -227,7 +227,7 @@ python-multipart==0.0.20
 pytz==2024.2
 PyYAML==6.0.2
 pyzmq==26.2.0
-qwen-vl-utils==0.0.11
+qwen-vl-utils==0.0.14
 ray==2.46.0
 referencing==0.35.1
 regex==2024.11.6
