@@ -115,7 +115,7 @@ jupyter_client==8.6.3
 jupyter_core==5.7.2
 lark==1.2.2
 latex2sympy2_extended==1.10.1
-libcst==1.5.0
+libcst==1.8.6
 libmambapy==1.5.10
 liger_kernel==0.5.2
 lightning-utilities==0.11.8
